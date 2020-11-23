@@ -12,8 +12,5 @@ alt="Artemis"></a>
 <h4 align="center"> "On EDITING - REACT, MODERATION, FUN and MORE!"
   <p align="center">
     <a href="https://discord.js.org/#/">
-      <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-inactive">
-  </a>
-    <a href="https://discord.js.org/#/">
-      <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-inactive">
+      <img alt="Discord.js" src="https://img.shields.io/npm/v/discord.js?color=default&label=Discord.js&style=plastic">
   </a>
