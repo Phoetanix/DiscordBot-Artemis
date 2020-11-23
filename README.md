@@ -9,7 +9,7 @@ alt="Artemis"></a>
   Artemis - Hecate
   <br>
 </h1>
-<h4 align="center"> "On EDITING - REACT, MODERATION, FUN and MORE!"
+<h4 align="center"> "On *EDITING* - REACT, MODERATION, FUN and MORE!"
   <p align="center">
     <a href="https://discord.js.org/#/">
       <img alt="Discord.js" src="https://img.shields.io/npm/v/discord.js?color=default&label=Discord.js&style=plastic">
@@ -18,3 +18,8 @@ alt="Artemis"></a>
   <a href=""
      src="">
   </a>
+
+
+
+# OVERVIEW
+This is a new BOT on a Discord Community Server: [ArtemisCastle]("") 
