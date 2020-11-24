@@ -41,7 +41,7 @@ In a few days or maybe a month if there are problems the Bot will be Online.
 - Welcome Message
 - React Messages
 - Moderation Things
-
+- more but on editing......
 
 
 # Invitation
