@@ -14,10 +14,12 @@ alt="Artemis"></a>
     
    <a href="https://discord.js.org/#/">
      <img alt="Discord.js" src="https://img.shields.io/npm/v/discord.js?color=default&label=Discord.js&style=plastic">
+  </a>
   
+  <a href="https://discord.gg/n72kJ3Mycz">
+       <img scr="https://img.shields.io/discord/769271333049598004?label=ArtemisCastle">
   </a>
-  <a href="https://img.shields.io/discord/769271333049598004?label=ArtemisCastle&logo=V">
-  </a>
+  
 <p align="center">
   <a href=""
      src="">
