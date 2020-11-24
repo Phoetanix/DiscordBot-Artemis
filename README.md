@@ -47,3 +47,7 @@ In a few days or maybe a month if there are problems the Bot will be Online.
 # Invitation
 
 [Artemis]("") ( cant invite now, because of status down and searching for a free host)
+
+
+<a href="https://discord.com/widget?id=769271333049598004&theme=dark&width=%22350%22&height=%22500%22&allowtransparency=%22true%22&frameborder=%220%22&sandbox=%22allow-popups&allow-popups-to-escape-sandbox&allow-same-origin&allow-scripts"><img src="https://cdn.discordapp.com/attachments/776439259153563659/776439945095151656/image0.jpg">
+
