@@ -30,7 +30,7 @@ alt="Artemis"></a>
   •
   <a href="#invitation">Invitation</a>
   •
-  
+  <a href="#community">Community</a>
 
 # OVERVIEW
 This is a new BOT on a Discord Community Server: [ArtemisCastle]("https://discord.gg/n72kJ3Mycz") it will be setup soon.
