@@ -48,6 +48,40 @@ In a few days or maybe a month if there are problems the Bot will be Online.
 
 [Artemis]("") ( cant invite now, because of status down and searching for a free host)
 
+# Community
 
+<h1 align="center">
+<br> 
+  Welcome to ArtemisCastle!
+
+[ArtemisCastle]("https://discord.gg/n72kJ3Mycz")
+   <br> 
+Its the place where Artemis live.
+And also other Peoples!
+
+-------------------------------------------------------------------------
+
+
+We are a community of friendly Peoples!
+<h2 align="center">
+  <br>
+Community of Gaming
+•
+Community of Anime
+•
+and just chilling here!
+•
+And make what u want! U can be what u want here!
+Be a MOD? /No Problem!/
+•
+Be an Admin? /No Problem!/
+•
+Make Ads? /No Problem!/
+<br>
+U can make what u want!
+-------------------------------------------------------------------------
+
+Join us and be one of us!
+<a href=""><img scr="https://tenor.com/6P54.gif">
 <a href="https://discord.com/widget?id=769271333049598004&theme=dark&width=%22350%22&height=%22500%22&allowtransparency=%22true%22&frameborder=%220%22&sandbox=%22allow-popups&allow-popups-to-escape-sandbox&allow-same-origin&allow-scripts"><img src="https://cdn.discordapp.com/attachments/776439259153563659/776439945095151656/image0.jpg">
 
