@@ -17,7 +17,7 @@ alt="Artemis"></a>
   </a>
   
   <a href="https://discord.gg/n72kJ3Mycz">
-       <img scr="https://img.shields.io/discord/769271333049598004?label=ArtemisCastle">
+       <img src="https://img.shields.io/discord/769271333049598004?label=ArtemisCastle">
   </a>
   
 <p align="center">
@@ -25,7 +25,12 @@ alt="Artemis"></a>
      src="">
   </a>
 
-
+<p align="center">
+  <a href="#overview">Overview</a>
+  •
+  <a href="#invitation">Invitation</a>
+  •
+  
 
 # OVERVIEW
 This is a new BOT on a Discord Community Server: [ArtemisCastle]("https://discord.gg/n72kJ3Mycz") it will be setup soon.
@@ -39,6 +44,6 @@ In a few days or maybe a month if there are problems the Bot will be Online.
 
 
 
-# Invite The bot
+# Invitation
 
 [Artemis]("") ( cant invite now, because of status down and searching for a free host)
